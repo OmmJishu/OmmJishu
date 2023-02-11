@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmmJishu
-- 👀 I’m interested in Data Structure and Algorithm, Web Development Frontend.
-- 🌱 I’m currently learning Python and Data Structure and Algorithm with C++.
-- 💞️ I’m looking to collaborate on Frontend 
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Data Structure and Algorithm with C++
 - 📫 Reach me ommjishu123@gmail.com 
 
 <!---
